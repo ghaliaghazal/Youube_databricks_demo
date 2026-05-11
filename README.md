@@ -1,4 +1,4 @@
-# YouTube_databricks_demo
+# Youube_databricks_demo
 Demoing connecting data bricks to gitHub
 
 
